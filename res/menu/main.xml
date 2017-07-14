@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.contactmanager.MainActivity" >
+
+    <item
+        android:id="@+id/add"
+        android:icon="@drawable/add_user"
+        android:title="@string/menu_add"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/info"
+        android:icon="@drawable/info"
+        android:title="@string/menu_info"
+        app:showAsAction="ifRoom"/>
+
+</menu>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Contact Manager</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_contact">Add Contact</string>
+    <string name="title_activity_display_contact">Contact Details</string>
+    <string name="title_activity_info">Information</string>
+    <string name="menu_add">Add Contact</string>
+    <string name="menu_info">Info</string>
+    <string name="back">Back</string>
+
+    <!-- button labels start -->
+    <string name="add_contact">Add Contact</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <!-- button labels start -->
+
+
+    <!-- text labels start -->
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="search">Search</string>
+    <!-- text labels end -->
+
+
+    <!-- about us start -->
+    <string name="info">Welcome to Contact Manager! This application helps a user to store the contact information in an organized way. Information such as the contact name, phone number and email address are stored and sorted alphabetically. A user can add/delete/update any contact. For each entry, the first name of the contact is mandatory. Also the application provides a search feature that helps users to search for a given contact based on contact\'s first/last name. \n\nINTELLECTUAL PROPERTY RIGHTS AND RESERVATION OF OWNERSHIP owned by the developers listed below.\n\n\nDesigned and developed by Prashant Kagwad.\n\n\n</string>
+    <!-- about us start -->
+
+</resources>
